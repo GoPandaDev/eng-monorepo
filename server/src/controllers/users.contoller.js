@@ -1,6 +1,6 @@
 let DB = [
     {
-        id: '1',
+        id: 1,
         name: 'John Doe',
         email: 'john.doe@example.com',
         picture: 'https://picsum.photos/seed/user1/200',
@@ -12,7 +12,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '2',
+        id: 2,
         name: 'Sarah Johnson',
         email: 'sarah.johnson@example.com',
         picture: 'https://picsum.photos/seed/user2/200',
@@ -24,7 +24,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '3',
+        id: 3,
         name: 'Michael Chen',
         email: 'michael.chen@example.com',
         picture: 'https://picsum.photos/seed/user3/200',
@@ -36,7 +36,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '4',
+        id: 4,
         name: 'Emily Rodriguez',
         email: 'emily.rodriguez@example.com',
         picture: 'https://picsum.photos/seed/user4/200',
@@ -48,7 +48,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '5',
+        id: 5,
         name: 'David Kim',
         email: 'david.kim@example.com',
         picture: 'https://picsum.photos/seed/user5/200',
@@ -60,7 +60,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '6',
+        id: 6,
         name: 'Jessica Martinez',
         email: 'jessica.martinez@example.com',
         picture: 'https://picsum.photos/seed/user6/200',
@@ -72,7 +72,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '7',
+        id: 7,
         name: 'Alex Thompson',
         email: 'alex.thompson@example.com',
         picture: 'https://picsum.photos/seed/user7/200',
@@ -84,7 +84,7 @@ let DB = [
         status: 'inactive'
     },
     {
-        id: '8',
+        id: 8,
         name: 'Olivia Brown',
         email: 'olivia.brown@example.com',
         picture: 'https://picsum.photos/seed/user8/200',
@@ -96,7 +96,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '9',
+        id: 9,
         name: 'James Wilson',
         email: 'james.wilson@example.com',
         picture: 'https://picsum.photos/seed/user9/200',
@@ -108,7 +108,7 @@ let DB = [
         status: 'active'
     },
     {
-        id: '10',
+        id: 10,
         name: 'Sophia Lee',
         email: 'sophia.lee@example.com',
         picture: 'https://picsum.photos/seed/user10/200',
