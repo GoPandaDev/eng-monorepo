@@ -121,4 +121,4 @@ let DB = [
     }
 ]
 
-// ! implement here contoller function here
+// ! implement controller function here
