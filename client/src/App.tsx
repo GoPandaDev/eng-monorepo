@@ -9,7 +9,7 @@ interface User {
   bio: string,
   location: string,
   phone: string,
-  joinedDate: string,
+  joinDate: string,
   status: string
 }
 

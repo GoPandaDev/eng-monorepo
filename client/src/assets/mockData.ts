@@ -1,4 +1,17 @@
-let mockUserData = [
+interface User {
+    id: number,
+    name: string,
+    email: string,
+    picture: string,
+    role: string,
+    bio: string,
+    location: string,
+    phone: string,
+    joinDate: string,
+    status: string
+}
+
+const mockUserData: User[] = [
     {
         id: 1,
         name: 'John Doe',
