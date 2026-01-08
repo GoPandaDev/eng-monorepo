@@ -3,7 +3,7 @@ const router = express.Router();
 
 const usersRoutes = require('./users.routes');
 
-// ! implement user route here
+router.use('/users', usersRoutes);
 
 
 module.exports = router;

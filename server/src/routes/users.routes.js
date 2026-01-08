@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
-// ! import controller function here
+const { getUsers } = require('../controllers/users.contoller');
 
-// ! route implementation here
+router.get('/', getUsers);
 
 module.exports = router;

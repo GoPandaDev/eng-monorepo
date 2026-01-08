@@ -121,4 +121,10 @@ let DB = [
     }
 ]
 
-// ! implement controller function here
+const getUsers = (req, res) => {
+    res.json(DB);
+};
+
+module.exports = {
+    getUsers
+};
